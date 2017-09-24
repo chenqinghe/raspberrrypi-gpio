@@ -1,4 +1,4 @@
-# raspberrrypi-gpio   [中文文档](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/READM_ZH.md)
+# raspberrrypi-gpio   [中文说明](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/READM_ZH.md)
 
 this project is a library to operate raspberry pi gpio pins.
 
@@ -29,4 +29,4 @@ if err := ledpin.Blink(time.Second, time.Second*10); err != nil {
 ```
 
 # license
-this project is under MIT license.
+this project is under [MIT](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/LICENSE) license.

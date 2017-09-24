@@ -1,4 +1,4 @@
-# raspberrrypi-gpio   [English](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/README.md)
+# raspberrypi-gpio   [English](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/README.md)
 
 这是一个用go实现的控制树莓派引脚输入输出的库。虽然目前github上已经有现成的库了，但是要么是通过cgo调用C语言的wiringpi库来实现的，要么实现的接口不是很友好，因此自己撸了一个出来，希望有兴趣的伙伴可以多提issue和pr.
 

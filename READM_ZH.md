@@ -29,4 +29,4 @@ if err := ledpin.Blink(time.Second, time.Second*10); err != nil {
 ```
 
 # 协议
-本项目遵从MIT协议，具体内容见[这里]()
+本项目遵从MIT协议，具体内容见[这里](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/LICENSE)

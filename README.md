@@ -1,4 +1,4 @@
-# raspberrrypi-gpio   [中文说明](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/READM_ZH.md)
+# raspberrypi-gpio   [中文说明](https://github.com/chenqinghe/raspberrrypi-gpio/blob/master/READM_ZH.md)
 
 this project is a library to operate raspberry pi gpio pins.
 

@@ -98,7 +98,7 @@ func (pin *Pin) Unexport() (err error) {
 		}
 	}()
 	pin.Mux.Lock()
-	pin.exported = true
+	pin.exported = false
 	pin.Mux.Unlock()
 	return
 }

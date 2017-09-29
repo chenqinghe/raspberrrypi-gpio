@@ -1,7 +1,7 @@
 package main
 
 import (
-	"git.chenqinghe.com/chenchao/gpio"
+	gpio "github.com/chenqinghe/raspberrypi-gpio"
 	"time"
 )
 
